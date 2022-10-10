@@ -6,7 +6,7 @@ The code performs the following functions:
 2- Preprocesses the data in the text collection (stop words removal, stemming, removing punctuations etc.)
 3- 
 ## Running the code  
-*Python 3 is required to run the code*
+*Python 3 and nlkt is required to run the code*
 
 Ensure all the files from the repo are present in the same directory.
 
